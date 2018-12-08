@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome new members.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Welcomes new members when they make their first pull or merge request.
 
 ## Getting started
 
